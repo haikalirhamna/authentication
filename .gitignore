@@ -1,0 +1,31 @@
+# Dependency directories
+/vendor/
+/composer.lock
+
+# Composer PHAR
+/composer.phar
+
+# Composer related logs and backups
+/composer.json.bak
+/composer.json.log
+/composer.lock.bak
+/composer.lock.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.idea/
+*.iml
+
+# Node.js files (if applicable)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Log files
+*.log
+
+# Cache
+.cache/
